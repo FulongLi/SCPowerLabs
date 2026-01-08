@@ -6,10 +6,13 @@ description: Join Spirit Connect – Power Labs and help shape the future of AI-
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/compicon.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>Careers</h1>
-    <p class="lead">We're building a compact, expert team at the intersection of power electronics and AI.</p>
+    <h1 style="color: #fff;">Careers</h1>
+    <p class="lead" style="color: #fff;">We're building a compact, expert team at the intersection of power electronics and AI.</p>
   </div>
 </header>
 

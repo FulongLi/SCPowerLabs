@@ -6,10 +6,13 @@ description: About Spirit Connect – Power Labs — AI-assisted power electroni
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/compicon.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>About Spirit Connect – Power Labs</h1>
-    <p class="lead">
+    <h1 style="color: #fff;">About Spirit Connect – Power Labs</h1>
+    <p class="lead" style="color: #fff;">
       We combine <strong>deep power electronics expertise</strong> with <strong>AI-driven design automation</strong> to shorten
       development cycles and build reliable, future-ready energy conversion systems.
     </p>

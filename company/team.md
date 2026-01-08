@@ -5,10 +5,13 @@ permalink: /company/team/
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/compicon.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>Team</h1>
-    <p class="lead">
+    <h1 style="color: #fff;">Team</h1>
+    <p class="lead" style="color: #fff;">
       Engineers and researchers combining power electronics, AI, and data-driven design to redefine converter development.
     </p>
   </div>

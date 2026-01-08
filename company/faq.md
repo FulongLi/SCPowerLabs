@@ -6,10 +6,13 @@ description: Frequently asked questions about Spirit Connect – Power Labs serv
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/compicon.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>FAQ</h1>
-    <p class="lead">Common questions about data, IP, accuracy, and delivery.</p>
+    <h1 style="color: #fff;">FAQ</h1>
+    <p class="lead" style="color: #fff;">Common questions about data, IP, accuracy, and delivery.</p>
   </div>
 </header>
 

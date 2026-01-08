@@ -6,12 +6,15 @@ description: Get in touch with Spirit Connect – Power Labs.
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/compicon.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>Contact Us</h1>
-    <p class="lead">
+    <h1 style="color: #fff;">Contact Us</h1>
+    <p class="lead" style="color: #fff;">
       Have a project in mind or want to learn more about our AI-assisted power electronics design solutions?
-      We’d love to hear from you.
+      We'd love to hear from you.
     </p>
   </div>
 </header>
