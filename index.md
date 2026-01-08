@@ -5,6 +5,9 @@ description: AI-assisted power electronics converter design automation.
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/main.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
     <span class="badge">AI-Assisted Design Automation</span>
