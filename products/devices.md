@@ -18,24 +18,46 @@ description: Device testing, modeling, and characterization for power electronic
 
 <section class="section">
   <div class="container">
-    <h2>Device Testing & Modeling</h2>
+    <h2>Device Testing</h2>
     <p class="lead">
-      Comprehensive device testing, modeling, and characterization services to enable accurate design automation
+      Comprehensive device testing services including electrical and thermal characterization to enable accurate design automation
       and optimization for power electronics systems.
     </p>
     <div class="grid">
       <div class="card">
-        <h3>Device Testing</h3>
-        <p>Comprehensive testing of semiconductor devices including switching characteristics, thermal performance, and reliability validation.</p>
+        <h3>Electrical Characterization</h3>
+        <p>Comprehensive testing of semiconductor devices including switching characteristics, switching losses, and electrical performance validation under various operating conditions.</p>
       </div>
       <div class="card">
-        <h3>Device Modeling</h3>
-        <p>Physics-based and behavioral models for accurate simulation and design optimization, including switching loss and thermal models.</p>
+        <h3>Thermal Characterization</h3>
+        <p>Thermal performance testing and validation including thermal resistance measurements, junction temperature analysis, and reliability assessment.</p>
+      </div>
+    </div>
+    <div style="text-align: center; margin-top: 2rem;">
+      <a href="{{ '/products/characterizations/' | relative_url }}" class="btn btn-primary">Learn More →</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Device Modeling</h2>
+    <p class="lead">
+      Advanced device modeling capabilities including ANN (Artificial Neural Network) modeling, compatible with current market models
+      such as PLCES model, Spice model, MATLAB model, and more.
+    </p>
+    <div class="grid">
+      <div class="card">
+        <h3>ANN Modeling</h3>
+        <p>Artificial Neural Network-based models for accurate device behavior prediction and simulation, offering high accuracy and computational efficiency.</p>
       </div>
       <div class="card">
-        <h3>Characterization</h3>
-        <p>Detailed characterization of device parameters under various operating conditions for mission profile analysis.</p>
+        <h3>Compatible Models</h3>
+        <p>Support for industry-standard models including PLCES (Piecewise Linear Circuit Element Simulator), Spice models, MATLAB models, and other established modeling frameworks.</p>
       </div>
+    </div>
+    <div style="text-align: center; margin-top: 2rem;">
+      <a href="{{ '/products/characterizations/' | relative_url }}" class="btn btn-primary">Learn More →</a>
     </div>
   </div>
 </section>
