@@ -6,10 +6,13 @@ description: Device testing, modeling, and characterization for power electronic
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/semiconductor.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>Devices</h1>
-    <p class="lead">Testing, modeling, and characterization for power electronics design automation.</p>
+    <h1 style="color: #fff;">Devices</h1>
+    <p class="lead" style="color: #fff;">Testing, modeling, and characterization for power electronics design automation.</p>
   </div>
 </header>
 

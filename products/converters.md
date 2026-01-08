@@ -6,10 +6,13 @@ description: Optimized converter design and control strategies for high-performa
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/converter.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>Converters</h1>
-    <p class="lead">Optimized converter design and control strategies for high-performance applications.</p>
+    <h1 style="color: #fff;">Converters</h1>
+    <p class="lead" style="color: #fff;">Optimized converter design and control strategies for high-performance applications.</p>
   </div>
 </header>
 
