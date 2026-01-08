@@ -1,3 +1,9 @@
+![Jekyll](https://img.shields.io/badge/jekyll-4.0-blue)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-enabled-brightgreen)
+![category - power electronics](https://img.shields.io/badge/category-power%20electronics-lightgrey)
+![status - active](https://img.shields.io/badge/status-active-success)
+
+
 # Spirit Connect – Power Labs
 
 > **AI-Assisted Power Electronics Converter Design Automation**
