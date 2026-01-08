@@ -60,11 +60,11 @@ description: About Spirit Connect – Power Labs — AI-assisted power electroni
     <p>We collaborate with leading academic and industrial partners to push the boundaries of power electronics design and validation.</p>
     <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:2rem;align-items:center;text-align:center;">
       <div>
-        <img src="/images/general/CU_logo.png" alt="Cardiff University" style="max-width:160px;">
+        <img src="{{ '/images/general/CU_logo.png' | relative_url }}" alt="Cardiff University" style="max-width:160px;">
         <p class="small">Cardiff University</p>
       </div>
       <div>
-        <img src="/images/general/SHI_logo.jpg" alt="Sumitomo Heavy Industries" style="max-width:160px;">
+        <img src="{{ '/images/general/SHI_logo.jpg' | relative_url }}" alt="Sumitomo Heavy Industries" style="max-width:160px;">
         <p class="small">Sumitomo Heavy Industries</p>
       </div>
     </div>

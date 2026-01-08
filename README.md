@@ -5,7 +5,7 @@
 Welcome to the public website repository of **Spirit Connect – Power Labs**.  
 We accelerate power electronics development using artificial intelligence: from topology exploration to thermal analysis and control synthesis.
 
-🌐 Live site: [https://fulongli.github.io/spiritconnectpowerlabs.github.io/](https://fulongli.github.io/spiritconnectpowerlabs.github.io/)
+🌐 Live site: [https://fulongli.github.io/SCPowerLabs/](https://fulongli.github.io/SCPowerLabs/)
 
 ---
 
