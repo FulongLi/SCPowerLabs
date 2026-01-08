@@ -93,11 +93,20 @@ a{color:var(--brand)} a:hover{color:var(--brand-dark);text-decoration:none}
   transition: all 0.2s ease;
 }
 
+.nav .cta {
+  color: #ffffff !important;
+}
+
 .nav a:hover,
 .nav .drop-toggle:hover,
 .nav .cta:hover {
   text-decoration: none;
   opacity: 0.85;
+}
+
+.nav .cta:hover {
+  color: #ffffff !important;
+  opacity: 1;
 }
 
 /* Enhanced card styling */
