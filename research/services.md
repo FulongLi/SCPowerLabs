@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Services
-permalink: /products/services/
+permalink: /research/services/
 description: AI-assisted power electronics converter design and consultancy — microgrids, converters, and component expertise.
 ---
 

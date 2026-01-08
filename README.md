@@ -56,9 +56,14 @@ SCPowerLabs/
 ├── _posts/              # Blog posts
 ├── assets/              # CSS, images, and other static assets
 ├── company/             # Company pages (about, team, careers, FAQ)
-├── products/            # Product pages (microgrids, converters, devices)
+├── research/            # Research and product pages
+│   ├── services.md      # Services overview
+│   ├── microgrids/      # Microgrids research
+│   ├── converters/      # Converters research
+│   ├── devices/         # Devices research and databases
+│   └── magnetics/       # Magnetics database
 ├── case-studies/        # Case study pages
-├── accessories/         # Accessories pages
+├── accessories/         # Accessories pages (transducers, testrigs)
 ├── legal/               # Legal pages (privacy, terms, cookies)
 └── index.md             # Homepage
 ```
@@ -117,6 +122,6 @@ See [LICENSE.md](LICENSE.md) for details.
 ## Links
 
 - [About Us](/company/about/)
-- [Our Services](/products/services/)
+- [Our Services](/research/services/)
 - [Contact Us](/contact/)
 - [Team](/company/team/)
