@@ -5,13 +5,21 @@
 Welcome to the public website repository of **Spirit Connect – Power Labs**.  
 We accelerate power electronics development using artificial intelligence: from topology exploration to thermal analysis and control synthesis.
 
-🌐 Live site: [https://fulongli.github.io/SCPowerLabs/](https://fulongli.github.io/SCPowerLabs/)
+**Live site:** [https://fulongli.github.io/SCPowerLabs/](https://fulongli.github.io/SCPowerLabs/)
 
 ---
 
-## 🚀 What We Do
+## What We Do
 
 Spirit Connect – Power Labs builds **automation tools and workflows** that help engineers design high-performance power converters faster and with better trade-offs.
+
+### Core Services
+
+- **Microgrids** – Designing, modeling, and controlling DC and AC microgrids for resilient and efficient energy distribution
+- **Converters** – Optimized converter design and control strategies for high-performance applications (buck/boost, LLC, DAB, multi-level DC-AC)
+- **Devices** – Device testing, modeling, and characterization for power electronics design automation
+
+### AI-Assisted Design Capabilities
 
 - **AI-driven topology exploration** – LLC, DAB, multi-level, interleaved buck/boost, and more  
 - **Magnetics and semiconductor selection** – WBG devices, core sizing, and winding optimization  
@@ -21,3 +29,88 @@ Spirit Connect – Power Labs builds **automation tools and workflows** that hel
 - **Validation planning** – HIL/SIL hooks, automated test scripts, and repeatable experiments
 
 ---
+
+## Technology Stack
+
+This website is built using:
+
+- **Jekyll** – Static site generator
+- **GitHub Pages** – Hosting platform
+- **HTML/CSS/JavaScript** – Frontend technologies
+
+---
+
+## Project Structure
+
+```
+SCPowerLabs/
+├── _config.yml          # Jekyll configuration
+├── _includes/            # Reusable components (navbar, footer, scripts)
+├── _layouts/            # Page layouts
+├── _posts/              # Blog posts
+├── assets/              # CSS, images, and other static assets
+├── company/             # Company pages (about, team, careers, FAQ)
+├── products/            # Product pages (microgrids, converters, devices)
+├── case-studies/        # Case study pages
+├── accessories/         # Accessories pages
+├── legal/               # Legal pages (privacy, terms, cookies)
+└── index.md             # Homepage
+```
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Ruby (for Jekyll)
+- Bundler gem
+
+### Local Development
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/fulongli/SCPowerLabs.git
+   cd SCPowerLabs
+   ```
+
+2. Install dependencies:
+   ```bash
+   bundle install
+   ```
+
+3. Run the Jekyll server:
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+4. Open your browser and navigate to `http://localhost:4000/SCPowerLabs/`
+
+---
+
+## Contributing
+
+This is a public website repository. For contributions or inquiries, please contact us at [info@spiritconnect.co.uk](mailto:info@spiritconnect.co.uk).
+
+---
+
+## License
+
+See [LICENSE.md](LICENSE.md) for details.
+
+---
+
+## Contact
+
+- **Email:** [info@spiritconnect.co.uk](mailto:info@spiritconnect.co.uk)
+- **Location:** Cardiff, United Kingdom
+- **Website:** [https://fulongli.github.io/SCPowerLabs/](https://fulongli.github.io/SCPowerLabs/)
+
+---
+
+## Links
+
+- [About Us](/company/about/)
+- [Our Services](/products/services/)
+- [Contact Us](/contact/)
+- [Team](/company/team/)
