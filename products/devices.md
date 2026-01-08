@@ -27,14 +27,13 @@ description: Device testing, modeling, and characterization for power electronic
       <div class="card">
         <h3>Electrical Characterization</h3>
         <p>Comprehensive testing of semiconductor devices including switching characteristics, switching losses, and electrical performance validation under various operating conditions.</p>
+        <a href="{{ '/products/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
       <div class="card">
         <h3>Thermal Characterization</h3>
         <p>Thermal performance testing and validation including thermal resistance measurements, junction temperature analysis, and reliability assessment.</p>
+        <a href="{{ '/products/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
-    </div>
-    <div style="text-align: center; margin-top: 2rem;">
-      <a href="{{ '/products/characterizations/' | relative_url }}" class="btn btn-primary">Learn More →</a>
     </div>
   </div>
 </section>
@@ -50,14 +49,13 @@ description: Device testing, modeling, and characterization for power electronic
       <div class="card">
         <h3>ANN Modeling</h3>
         <p>Artificial Neural Network-based models for accurate device behavior prediction and simulation, offering high accuracy and computational efficiency.</p>
+        <a href="{{ '/products/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
       <div class="card">
         <h3>Compatible Models</h3>
         <p>Support for industry-standard models including PLCES (Piecewise Linear Circuit Element Simulator), Spice models, MATLAB models, and other established modeling frameworks.</p>
+        <a href="{{ '/products/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
-    </div>
-    <div style="text-align: center; margin-top: 2rem;">
-      <a href="{{ '/products/characterizations/' | relative_url }}" class="btn btn-primary">Learn More →</a>
     </div>
   </div>
 </section>
