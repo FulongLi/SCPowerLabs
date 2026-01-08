@@ -33,18 +33,21 @@ description: AI-assisted power electronics converter design automation.
         <h3>Microgrids</h3>
         <p>Designing, modeling, and controlling DC and AC microgrids for resilient and efficient energy distribution.
            Expertise in hybrid AC/DC architectures and renewable integration.</p>
+        <a href="{{ '/products/services/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/research/converter.png' | relative_url }}" alt="Converters" style="width:100%;max-width:240px;border:1px solid #ccc;border-radius:6px;margin-bottom:1rem;">
         <h3>Converters</h3>
         <p>Optimized converter design and control strategies for high-performance applications — buck/boost, LLC, DAB,
            multi-level DC-AC — with automated parameter search and soft-switching control regions.</p>
+        <a href="{{ '/products/services/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/research/components.png' | relative_url }}" alt="Components" style="width:100%;max-width:240px;border:1px solid #ccc;border-radius:6px;margin-bottom:1rem;">
         <h3>Components</h3>
         <p>Deep knowledge of modern semiconductor devices (SiC/GaN) and passive components, enabling efficient, reliable,
            and compact solutions tailored to your thermal and cost constraints.</p>
+        <a href="{{ '/products/services/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
     </div>
   </div>
