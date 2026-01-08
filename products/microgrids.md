@@ -6,10 +6,13 @@ description: Designing, modeling, and controlling DC and AC microgrids for resil
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/mg.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
-    <h1>Microgrids</h1>
-    <p class="lead">Designing, modeling, and controlling DC and AC microgrids for resilient and efficient energy distribution.</p>
+    <h1 style="color: #fff;">Microgrids</h1>
+    <p class="lead" style="color: #fff;">Designing, modeling, and controlling DC and AC microgrids for resilient and efficient energy distribution.</p>
   </div>
 </header>
 
