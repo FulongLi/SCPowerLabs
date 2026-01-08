@@ -238,7 +238,8 @@ button:focus-visible {
 .hero {
   position: relative;
   overflow: hidden;
-  padding: 7rem 0 5rem;
+  padding: 10rem 0 7rem;
+  min-height: 80vh;
 }
 
 .hero-video {
