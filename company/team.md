@@ -16,9 +16,9 @@ permalink: /company/team/
 
 <section class="section">
   <div class="container">
-    <div class="grid" style="max-width: 800px; margin: 0 auto; grid-template-columns: 1fr;">
+    <div class="grid" style="max-width: 600px; margin: 0 auto; grid-template-columns: 1fr;">
       <!-- Founder -->
-      <div class="card" style="text-align: center; padding: 2.5rem;">
+      <div class="card" style="text-align: center; padding: 2rem;">
         <img 
           src="{{ '/images/team/fulong_li.jpg' | relative_url }}" 
           alt="Dr. Fulong Li" 
