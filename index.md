@@ -11,8 +11,8 @@ description: AI-assisted power electronics converter design automation.
   <div class="bg"></div>
   <div class="container">
     <span class="badge">AI-Assisted Design Automation</span>
-    <h1>Faster, smarter design — from device to system</h1>
-    <p class="lead">
+    <h1 style="color: #fff;">Faster, smarter design — from device to system</h1>
+    <p class="lead" style="color: #fff;">
       We accelerate power-electronics development with AI: automated topology exploration,
       magnetics sizing, loss & thermal modeling, and control synthesis — validated by rigorous
       test workflows.
