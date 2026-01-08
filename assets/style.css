@@ -18,8 +18,8 @@ a{color:var(--brand)} a:hover{color:var(--brand-dark);text-decoration:none}
 .menu{display:flex;align-items:center;gap:2rem}
 .nav a,.drop-toggle{color:var(--fg);font-weight:500;font-size:0.95rem;transition:color 0.2s}
 .nav a:hover,.drop-toggle:hover{color:var(--brand)}
-.cta{display:inline-block;padding:.6rem 1.25rem;border-radius:6px;background:var(--brand);color:#fff;font-weight:600;box-shadow:var(--shadow);transition:all 0.2s}
-.cta:hover{background:var(--brand-dark);transform:translateY(-1px);box-shadow:var(--shadow-lg)}
+.cta{display:inline-block;padding:.6rem 1.25rem;border-radius:6px;background:var(--brand);color:#ffffff;font-weight:600;box-shadow:var(--shadow);transition:all 0.2s}
+.cta:hover{background:var(--brand-dark);color:#ffffff;transform:translateY(-1px);box-shadow:var(--shadow-lg)}
 
 /* Dropdown */
 .dropdown{position:relative}
