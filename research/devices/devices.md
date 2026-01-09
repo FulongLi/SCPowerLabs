@@ -19,6 +19,11 @@ description: Device testing, modelling, and characterisation for power electroni
 <section class="section section-case-study">
   <div class="container">
     <div class="case-study-content">
+      <div class="case-study-visual">
+        <div class="visual-placeholder">
+          <img src="{{ '/research/devices/testing/B1505A.png' | relative_url }}" alt="Electrical Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
+        </div>
+      </div>
       <div class="case-study-text">
         <span class="section-badge">DEVICE TESTING</span>
         <h2>Electrical Characterisation</h2>
@@ -27,11 +32,6 @@ description: Device testing, modelling, and characterisation for power electroni
         </p>
         <div class="case-study-actions">
           <a href="{{ '/research/characterizations/' | relative_url }}" class="btn btn-primary">Learn More</a>
-        </div>
-      </div>
-      <div class="case-study-visual">
-        <div class="visual-placeholder">
-          <img src="{{ '/research/devices/testing/B1505A.png' | relative_url }}" alt="Electrical Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
         </div>
       </div>
     </div>
