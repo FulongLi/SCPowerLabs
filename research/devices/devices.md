@@ -2,7 +2,7 @@
 layout: default
 title: Devices
 permalink: /research/devices/
-description: Device testing, modeling, and characterization for power electronics design automation.
+description: Device testing, modelling, and characterisation for power electronics design automation.
 ---
 
 <header class="hero">
@@ -12,26 +12,47 @@ description: Device testing, modeling, and characterization for power electronic
   <div class="bg"></div>
   <div class="container">
     <h1 style="color: #fff;">Devices</h1>
-    <p class="lead" style="color: #fff;">Testing, modeling, and characterization for power electronics design automation.</p>
+    <p class="lead" style="color: #fff;">Testing, modelling, and characterisation for power electronics design automation.</p>
   </div>
 </header>
 
+<section class="section section-case-study">
+  <div class="container">
+    <div class="case-study-content">
+      <div class="case-study-visual">
+        <div class="visual-placeholder">
+          <img src="{{ '/research/devices/testing/B1505A.png' | relative_url }}" alt="Electrical Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
+        </div>
+      </div>
+      <div class="case-study-text">
+        <span class="section-badge">DEVICE TESTING</span>
+        <h2>Electrical Characterisation</h2>
+        <p class="lead">
+          Comprehensive testing of semiconductor devices including switching characteristics, switching losses, and electrical performance validation under various operating conditions. Our electrical characterisation services enable accurate design automation and optimisation for power electronics systems.
+        </p>
+        <div class="case-study-actions">
+          <a href="{{ '/research/characterizations/' | relative_url }}" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="container">
-    <h2>Device Testing</h2>
+    <h2>Thermal Characterisation</h2>
     <p class="lead">
-      Comprehensive device testing services including electrical and thermal characterization to enable accurate design automation
-      and optimization for power electronics systems.
+      Thermal performance testing and validation including thermal resistance measurements, junction temperature analysis, and reliability assessment.
     </p>
     <div class="grid">
       <div class="card">
-        <h3>Electrical Characterization</h3>
-        <p>Comprehensive testing of semiconductor devices including switching characteristics, switching losses, and electrical performance validation under various operating conditions.</p>
+        <h3>Thermal Resistance Measurements</h3>
+        <p>Accurate thermal resistance (Rth) measurements for comprehensive thermal characterisation of semiconductor devices.</p>
         <a href="{{ '/research/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
       <div class="card">
-        <h3>Thermal Characterization</h3>
-        <p>Thermal performance testing and validation including thermal resistance measurements, junction temperature analysis, and reliability assessment.</p>
+        <h3>Junction Temperature Analysis</h3>
+        <p>Junction temperature analysis and reliability assessment under various operating conditions and mission profiles.</p>
         <a href="{{ '/research/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
     </div>
@@ -40,20 +61,20 @@ description: Device testing, modeling, and characterization for power electronic
 
 <section class="section">
   <div class="container">
-    <h2>Device Modeling</h2>
+    <h2>Device Modelling</h2>
     <p class="lead">
-      Advanced device modeling capabilities including ANN (Artificial Neural Network) modeling, compatible with current market models
+      Advanced device modelling capabilities including ANN (Artificial Neural Network) modelling, compatible with current market models
       such as PLCES model, Spice model, MATLAB model, and more.
     </p>
     <div class="grid">
       <div class="card">
-        <h3>ANN Modeling</h3>
-        <p>Artificial Neural Network-based models for accurate device behavior prediction and simulation, offering high accuracy and computational efficiency.</p>
+        <h3>ANN Modelling</h3>
+        <p>Artificial Neural Network-based models for accurate device behaviour prediction and simulation, offering high accuracy and computational efficiency.</p>
         <a href="{{ '/research/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
       <div class="card">
         <h3>Compatible Models</h3>
-        <p>Support for industry-standard models including PLCES (Piecewise Linear Circuit Element Simulator), Spice models, MATLAB models, and other established modeling frameworks.</p>
+        <p>Support for industry-standard models including PLCES (Piecewise Linear Circuit Element Simulator), Spice models, MATLAB models, and other established modelling frameworks.</p>
         <a href="{{ '/research/characterizations/' | relative_url }}" style="display:inline-block;margin-top:1rem;color:var(--brand);font-weight:600;text-decoration:none;">Learn More →</a>
       </div>
     </div>
@@ -83,7 +104,7 @@ description: Device testing, modeling, and characterization for power electronic
   <div class="container">
     <h2>Our Services</h2>
     <p>
-      We provide device testing, modeling, and characterization services to support your power electronics design projects.
+      We provide device testing, modelling, and characterisation services to support your power electronics design projects.
       Our expertise includes wide-bandgap devices (SiC/GaN), traditional semiconductors, and passive components.
     </p>
     <div class="hero-actions" style="margin-top:2rem;">
