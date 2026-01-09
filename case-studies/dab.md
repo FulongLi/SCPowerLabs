@@ -6,6 +6,9 @@ description: Case study on AI-assisted optimization of a dual-active-bridge (DAB
 ---
 
 <header class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="{{ '/images/vids/compicon1.mp4' | relative_url }}" type="video/mp4">
+  </video>
   <div class="bg"></div>
   <div class="container">
     <h1>DAB Converter Case Study</h1>
