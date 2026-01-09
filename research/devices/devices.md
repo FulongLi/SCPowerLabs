@@ -41,30 +41,6 @@ description: Device testing, modelling, and characterisation for power electroni
 <section class="section section-case-study">
   <div class="container">
     <div class="case-study-content">
-      <div class="case-study-visual">
-        <div class="image-gallery">
-          <div class="gallery-container">
-            <div class="gallery-slides" id="thermalGallery">
-              <div class="gallery-slide">
-                <img src="{{ '/research/devices/testing/j1.webp' | relative_url }}" alt="Thermal Characterisation 1">
-              </div>
-              <div class="gallery-slide">
-                <img src="{{ '/research/devices/testing/j2.webp' | relative_url }}" alt="Thermal Characterisation 2">
-              </div>
-              <div class="gallery-slide">
-                <img src="{{ '/research/devices/testing/j3.webp' | relative_url }}" alt="Thermal Characterisation 3">
-              </div>
-            </div>
-            <button class="gallery-nav prev" onclick="changeSlide('thermalGallery', -1)" aria-label="Previous image">‹</button>
-            <button class="gallery-nav next" onclick="changeSlide('thermalGallery', 1)" aria-label="Next image">›</button>
-          </div>
-          <div class="gallery-dots" id="thermalGalleryDots">
-            <button class="gallery-dot active" onclick="goToSlide('thermalGallery', 0)" aria-label="Go to slide 1"></button>
-            <button class="gallery-dot" onclick="goToSlide('thermalGallery', 1)" aria-label="Go to slide 2"></button>
-            <button class="gallery-dot" onclick="goToSlide('thermalGallery', 2)" aria-label="Go to slide 3"></button>
-          </div>
-        </div>
-      </div>
       <div class="case-study-text">
         <span class="section-badge">THERMAL TESTING</span>
         <h2>Thermal Characterisation</h2>
@@ -73,6 +49,11 @@ description: Device testing, modelling, and characterisation for power electroni
         </p>
         <div class="case-study-actions">
           <a href="{{ '/research/characterizations/' | relative_url }}" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+      <div class="case-study-visual">
+        <div class="visual-placeholder">
+          <img src="{{ '/research/devices/testing/j3.webp' | relative_url }}" alt="Thermal Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
         </div>
       </div>
     </div>
