@@ -16,47 +16,44 @@ description: Device testing, modelling, and characterisation for power electroni
   </div>
 </header>
 
-<section class="section">
+<section class="section section-case-study">
   <div class="container">
-    <h2 style="text-align: center; margin-bottom: 3rem; font-size: clamp(2rem, 4vw, 2.5rem);">Device Testing</h2>
-    <div style="border: 2px solid var(--border); border-radius: var(--radius); padding: 3rem; background: var(--card); box-shadow: var(--shadow-lg);">
-      <div class="section-case-study">
-        <div class="case-study-content">
-          <div class="case-study-visual">
-            <div class="visual-placeholder">
-              <img src="{{ '/research/devices/testing/B1505A.png' | relative_url }}" alt="Electrical Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
-            </div>
-          </div>
-          <div class="case-study-text">
-            <span class="section-badge">DEVICE TESTING</span>
-            <h2>Electrical Characterisation</h2>
-            <p class="lead">
-              Comprehensive testing of semiconductor devices including switching characteristics, switching losses, and electrical performance validation under various operating conditions. Our electrical characterisation services enable accurate design automation and optimisation for power electronics systems.
-            </p>
-            <div class="case-study-actions">
-              <a href="{{ '/research/characterizations/' | relative_url }}" class="btn btn-primary">Learn More</a>
-            </div>
-          </div>
+    <div class="case-study-content">
+      <div class="case-study-text">
+        <span class="section-badge">DEVICE TESTING</span>
+        <h2>Electrical Characterisation</h2>
+        <p class="lead">
+          Comprehensive testing of semiconductor devices including switching characteristics, switching losses, and electrical performance validation under various operating conditions. Our electrical characterisation services enable accurate design automation and optimisation for power electronics systems.
+        </p>
+        <div class="case-study-actions">
+          <a href="{{ '/research/characterizations/' | relative_url }}" class="btn btn-primary">Learn More</a>
         </div>
       </div>
+      <div class="case-study-visual">
+        <div class="visual-placeholder">
+          <img src="{{ '/research/devices/testing/B1505A.png' | relative_url }}" alt="Electrical Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-      <div class="section-case-study" style="margin-top: 4rem;">
-        <div class="case-study-content">
-          <div class="case-study-text">
-            <span class="section-badge">THERMAL TESTING</span>
-            <h2>Thermal Characterisation</h2>
-            <p class="lead">
-              Thermal performance testing and validation including thermal resistance measurements, junction temperature analysis, and reliability assessment. Our comprehensive thermal characterisation services enable accurate thermal modelling and optimisation for power electronics systems.
-            </p>
-            <div class="case-study-actions">
-              <a href="{{ '/research/characterizations/' | relative_url }}" class="btn btn-primary">Learn More</a>
-            </div>
-          </div>
-          <div class="case-study-visual">
-            <div class="visual-placeholder">
-              <img src="{{ '/research/devices/testing/j3.webp' | relative_url }}" alt="Thermal Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
-            </div>
-          </div>
+<section class="section section-case-study">
+  <div class="container">
+    <div class="case-study-content">
+      <div class="case-study-text">
+        <span class="section-badge">THERMAL TESTING</span>
+        <h2>Thermal Characterisation</h2>
+        <p class="lead">
+          Thermal performance testing and validation including thermal resistance measurements, junction temperature analysis, and reliability assessment. Our comprehensive thermal characterisation services enable accurate thermal modelling and optimisation for power electronics systems.
+        </p>
+        <div class="case-study-actions">
+          <a href="{{ '/research/characterizations/' | relative_url }}" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+      <div class="case-study-visual">
+        <div class="visual-placeholder">
+          <img src="{{ '/research/devices/testing/j3.webp' | relative_url }}" alt="Thermal Characterisation" style="max-width: 60%; height: auto; border-radius: var(--radius);">
         </div>
       </div>
     </div>
