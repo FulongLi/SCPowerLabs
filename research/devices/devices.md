@@ -42,7 +42,7 @@ description: Device testing, modelling, and characterisation for power electroni
   <div class="container">
     <div class="case-study-content">
       <div class="case-study-text">
-        <span class="section-badge">THERMAL TESTING</span>
+        <span class="section-badge">DEVICE TESTING</span>
         <h2>Thermal Characterisation</h2>
         <p class="lead">
           Thermal performance testing and validation including thermal resistance measurements, junction temperature analysis, and reliability assessment. Our comprehensive thermal characterisation services enable accurate thermal modelling and optimisation for power electronics systems.
