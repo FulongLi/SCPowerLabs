@@ -2,53 +2,55 @@
 layout: default
 title: Careers
 permalink: /company/careers/
-description: Join Spirit Connect AIPE Labs — help build AI-assisted power electronics tools and shape the future of energy.
+description: AIPE Labs has no open positions at present, but engineers and researchers are always welcome to contribute.
 ---
 
-<header class="hero hero-compact">
+<header class="hero hero-compact careers-hero">
   <div class="container">
-    <h1>Careers</h1>
-    <p class="lead">We're building a compact, expert team where deep power electronics knowledge meets cutting-edge AI.</p>
+    <p class="careers-kicker">Careers at AIPE Labs</p>
+    <h1>Build AIPE Labs with us.</h1>
+    <p class="lead">
+      We are creating open tools and knowledge for AI-assisted power electronics engineering.
+      Engineers and researchers who share that ambition are always welcome to contribute.
+    </p>
+    <p class="careers-status"><span aria-hidden="true"></span>No open positions at present</p>
   </div>
 </header>
 
-<section class="section">
-  <div class="container">
-    <h2>Join Our Team</h2>
-    <p class="lead">
-      We're looking for people who are passionate about closing the loop between AI and energy —
-      engineers and researchers who want to build the intelligent design tools that will shape
-      how power systems are created for decades to come.
-    </p>
-    
-    <div class="card opportunity-card">
-      <h3>Current Opportunities</h3>
+<main class="section careers-page">
+  <div class="container careers-shell">
+    <div class="careers-intro">
+      <p class="careers-kicker">An open invitation</p>
+      <h2>Come shape what we are building.</h2>
       <p>
-        We don't have open full-time positions at the moment, but we're always open to collaboration
-        with contractors, researchers, and consultants who share our vision.
-      </p>
-      <p>
-        If you're interested in working with us, please send a brief introduction and your CV to
-        <a href="mailto:info@spiritconnect.co.uk">info@spiritconnect.co.uk</a>.
+        We are not recruiting for specific roles right now. But if you care about better ways to
+        design, understand, and share power electronics knowledge, we would still like to hear from you.
       </p>
     </div>
 
-    <div class="grid">
-      <div class="card">
-        <h3>Power Electronics</h3>
-        <p>Converter design, device characterisation, control systems, thermal management, and
-        hardware validation — the domain expertise that grounds our AI.</p>
+    <div class="careers-paths" aria-label="Ways to contribute">
+      <article class="careers-path">
+        <p class="careers-path-index">01</p>
+        <div>
+          <h3>Engineers</h3>
+          <p>Help turn research and engineering practice into useful software, datasets, models, and open design resources.</p>
+        </div>
+      </article>
+      <article class="careers-path">
+        <p class="careers-path-index">02</p>
+        <div>
+          <h3>Researchers</h3>
+          <p>Explore new methods across power electronics, energy systems, scientific machine learning, and AI-assisted engineering.</p>
+        </div>
+      </article>
+    </div>
+
+    <div class="careers-contact">
+      <div>
+        <h2>Interested in contributing?</h2>
+        <p>Send a short introduction, your area of interest, and a link to work you are proud of.</p>
       </div>
-      <div class="card">
-        <h3>AI &amp; Machine Learning</h3>
-        <p>Physics-informed models, optimisation algorithms, surrogate modelling, and agent architectures
-        that reason across the device-converter-system stack.</p>
-      </div>
-      <div class="card">
-        <h3>Software Engineering</h3>
-        <p>Building the platform, APIs, and integrations that bring the AI Agent to engineers'
-        existing workflows — Python, MATLAB, SPICE, and beyond.</p>
-      </div>
+      <a class="btn btn-primary" href="mailto:info@spiritconnect.co.uk?subject=Contributing%20to%20AIPE%20Labs">Introduce yourself <span aria-hidden="true">&#8599;</span></a>
     </div>
   </div>
-</section>
+</main>
