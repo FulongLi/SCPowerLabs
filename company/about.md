@@ -83,28 +83,32 @@ description: About Spirit Connect AIPE Labs — connecting AI-assisted engineeri
   </div>
 </section>
 
-<section class="section section-alt">
+<section class="section section-alt partners-section">
   <div class="container">
-    <h2>Partners & Collaborations</h2>
-    <p>We work with leading academic and industrial partners to push the boundaries of AI-driven power electronics.</p>
-    <div class="partner-logo-grid">
-      <div>
-        <img src="{{ '/images/general/CU_logo.png' | relative_url }}" alt="Cardiff University">
-      </div>
-      <div>
-        <img src="{{ '/images/general/SHI_logo.png' | relative_url }}" alt="Sumitomo Heavy Industries">
-      </div>
-      <div>
-        <img src="{{ '/images/general/SHU_logo.png' | relative_url }}" alt="Shanghai University">
-      </div>
-      <div>
-        <img src="{{ '/images/general/PX_logo.png' | relative_url }}" alt="Panxin Technologies">
-      </div>
-      <div>
-        <img src="{{ '/images/general/LU_logo.png' | relative_url }}" alt="Loughborough University">
-      </div>
-      <div>
-        <img src="{{ '/images/general/UG_logo.webp' | relative_url }}" alt="University of Glasgow">
+    <h2>Partners &amp; collaborations</h2>
+    <p>Academic and industrial relationships supporting our work across AI, power electronics, and energy systems.</p>
+    <div class="partner-marquee" role="region" aria-label="Partners and collaborators">
+      <div class="partner-track">
+        <div class="partner-list" role="list">
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/CU_logo.png' | relative_url }}" alt="Cardiff University" loading="lazy" decoding="async"></div>
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/SHI_logo.png' | relative_url }}" alt="Sumitomo Heavy Industries" loading="lazy" decoding="async"></div>
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/SHU_logo.png' | relative_url }}" alt="Shanghai University" loading="lazy" decoding="async"></div>
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/PX_logo.png' | relative_url }}" alt="Panxin Technologies" loading="lazy" decoding="async"></div>
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/LU_logo.png' | relative_url }}" alt="Loughborough University" loading="lazy" decoding="async"></div>
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/UG_logo.webp' | relative_url }}" alt="University of Glasgow" loading="lazy" decoding="async"></div>
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/nvidia-logo.webp' | relative_url }}" alt="NVIDIA" loading="lazy" decoding="async"></div>
+          <div class="partner-logo" role="listitem"><img src="{{ '/images/general/mps_logo.png' | relative_url }}" alt="Monolithic Power Systems" loading="lazy" decoding="async"></div>
+        </div>
+        <div class="partner-list" aria-hidden="true">
+          <div class="partner-logo"><img src="{{ '/images/general/CU_logo.png' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+          <div class="partner-logo"><img src="{{ '/images/general/SHI_logo.png' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+          <div class="partner-logo"><img src="{{ '/images/general/SHU_logo.png' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+          <div class="partner-logo"><img src="{{ '/images/general/PX_logo.png' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+          <div class="partner-logo"><img src="{{ '/images/general/LU_logo.png' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+          <div class="partner-logo"><img src="{{ '/images/general/UG_logo.webp' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+          <div class="partner-logo"><img src="{{ '/images/general/nvidia-logo.webp' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+          <div class="partner-logo"><img src="{{ '/images/general/mps_logo.png' | relative_url }}" alt="" loading="lazy" decoding="async"></div>
+        </div>
       </div>
     </div>
   </div>
