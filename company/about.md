@@ -20,15 +20,15 @@ description: About Spirit Connect AIPE Labs — connecting AI-assisted engineeri
   <div class="container">
     <h2>Our Mission</h2>
     <p>
-      Spirit Connect AIPE Labs was founded with a single conviction: the future of power electronics
-      and artificial intelligence are inseparable. Every AI data centre needs efficient, reliable power
-      delivery. Every power system can be designed better with AI. We exist to close that loop.
+      AIPE began as <strong>AI for Power Electronics</strong>, reflecting our original focus on applying AI
+      to power-electronics design. As the initiative grew from devices and converters towards complete
+      energy systems, AIPE evolved into <strong>AI for Power Engineering</strong> — a broader vision built on
+      the same foundation.
     </p>
     <p>
-      Our AI-assisted engineering approach supports the full design stack — from
-      semiconductor device characterisation and converter topology exploration to microgrid architecture
-      and grid-level co-optimisation. Each design cycle feeds data back into the agent, making it
-      smarter, faster, and more accurate over time.
+      That evolution has not changed our core mission: to create a closed-loop ecosystem in which AI
+      improves the design of power and energy infrastructure, while engineering data and real-world
+      experience make the AI more capable over time.
     </p>
   </div>
 </section>

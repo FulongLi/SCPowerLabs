@@ -28,37 +28,11 @@ description: Spirit Connect 与 AIPE Labs 的发展里程碑及项目动态。
       </div>
 
       <div class="card news-card">
-        <span class="small">2026 年 7 月 6 日</span>
-        <h3>与非洲合作伙伴及格拉斯哥大学启动可再生能源项目</h3>
-        <p>
-          我们启动光伏与储能项目，探索如何通过电力电子、系统建模和 AI 辅助工作流
-          支持可再生能源的实际部署。
-        </p>
-      </div>
-
-      <div class="card news-card">
         <span class="small">2026 年 4 月 25 日</span>
         <h3>确定 AIPE Labs 发展路线图</h3>
         <p>
           我们确立了建设开放电力工程社区的发展路线，推动设计与制造形成闭环，
           并将 AI 辅助工程与支撑 AI 发展的能源基础设施连接起来。
-        </p>
-      </div>
-
-      <div class="card news-card">
-        <span class="small">2026 年 3 月 1 日</span>
-        <h3>与上海大学及泮芯科技开展技术合作</h3>
-        <p>
-          我们围绕功率半导体测试与建模开展合作，结合电气与热表征自动化，
-          推进器件寿命与可靠性评估。
-        </p>
-      </div>
-
-      <div class="card news-card">
-        <span class="small">2026 年 2 月 2 日</span>
-        <h3>与卡迪夫大学启动固态变压器项目</h3>
-        <p>
-          我们开始开发面向未来电网与 AI 数据中心基础设施的固态变压器概念方案。
         </p>
       </div>
 

@@ -27,38 +27,11 @@ description: Milestones and project updates from Spirit Connect and AIPE Labs.
       </div>
 
       <div class="card news-card">
-        <span class="small">6 July 2026</span>
-        <h3>Renewable-Energy Project Launched with an African Partner and the University of Glasgow</h3>
-        <p>
-          We began a photovoltaic and energy-storage project exploring how power electronics,
-          system modelling, and AI-assisted workflows can support practical renewable-energy deployment.
-        </p>
-      </div>
-
-      <div class="card news-card">
         <span class="small">25 April 2026</span>
         <h3>AIPE Labs Roadmap Defined</h3>
         <p>
           We set out a roadmap to build an open power-engineering community that helps close the loop
           between design and manufacturing, linking AI-assisted engineering with the energy infrastructure on which AI depends.
-        </p>
-      </div>
-
-      <div class="card news-card">
-        <span class="small">1 March 2026</span>
-        <h3>Technical Collaboration with Shanghai University and Panxin Technologies</h3>
-        <p>
-          We began collaborating on power semiconductor testing and modelling, combining electrical and thermal
-          characterisation automation with lifetime and reliability evaluation.
-        </p>
-      </div>
-
-      <div class="card news-card">
-        <span class="small">2 February 2026</span>
-        <h3>Solid-State Transformer Project Started with Cardiff University</h3>
-        <p>
-          We began developing a solid-state transformer concept for future electricity grids
-          and AI data-centre infrastructure.
         </p>
       </div>
 

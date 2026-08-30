@@ -23,13 +23,8 @@ description: The contributors building Spirit Connect AIPE Labs.
           <h2>Dr Fulong Li</h2>
           <p class="team-role">Founder</p>
           <p>
-            Dr Fulong Li leads the strategy and development of Spirit Connect AIPE Labs. He is a
-            power electronics engineer and researcher with experience in DC microgrids, wide-bandgap
-            devices, converter optimisation, testing, and validation.
-          </p>
-          <p>
-            He founded the company to connect intelligent design automation with the practical
-            energy infrastructure required by AI and electrified systems.
+            Dr Fulong Li is a power electronics engineer and researcher specialising in DC microgrids,
+            wide-bandgap devices, converter optimisation, testing, and validation.
           </p>
           <div class="team-links">
             <span>Cardiff, United Kingdom</span>
